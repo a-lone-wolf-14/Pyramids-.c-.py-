@@ -1,6 +1,6 @@
 The output for each type of pyramid is as follows: 
 
-HALF PYRAMID (FULL)-
+HALF PYRAMID (FILLED)-
 
 *
 **
@@ -12,8 +12,16 @@ HALF PYRAMID (FULL)-
 ********
 *********
 **********
-***********
-************
-*************
-**************
-***************
+
+INVERTED HALF PYRAMID (FILLED)-
+
+**********
+*********
+********
+*******
+******
+*****
+****
+***
+**
+*
